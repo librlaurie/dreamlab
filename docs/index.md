@@ -18,6 +18,12 @@ layout: default
 * [How the Web Works](https://github.com/upenndigitalscholarship/tktk/tree/master/training_slides/web)
 * [Jekyll and Github Pages](https://programminghistorian.org/en/lessons/building-static-sites-with-jekyll-github-pages) (by Amanda Visconti via [the Programming Historian](https://programminghistorian.org/))
 
-# Administrative
-* For Laurie while testing
+# Move Elsewhere
 * [SLIDES](dlf2018)
+* Services form (1-3-all)
+* List all of the jobs in Libraries
+
+## Project and Service planning
+* [Socio-technical Sustainability Roadmap](https://sites.haa.pitt.edu/sustainabilityroadmap/)
+* [Yale DH Lab - Starting a Project](http://dhlab.yale.edu/guides.html)
+* [SCUBA - Creating Definitions](http://bit.ly/creatingdefinitions)
