@@ -5,6 +5,7 @@ layout: default
 # Course Overview
 
 * [DreamLab Site](http://web.sas.upenn.edu/dream-lab/2018/10/29/dh-library/)
+* [Planning Doc](Planning-doc.md)
 
 # Documentation
 
