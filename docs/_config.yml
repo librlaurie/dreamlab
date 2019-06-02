@@ -1,8 +1,8 @@
-title: TKTK Documentation
+title: Penn Dreamlab Laurie
 description: >- # this means to ignore newlines until "baseurl:
-    Documents, slide decks, and other information about the tktk.
-baseurl: "/tktk" # the subpath of your site, e.g. /blog
-url: "https://upenndigitalscholarship.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+    Documents, slide decks, and other information about Lauries course.
+baseurl: "/dreamlab" # the subpath of your site, e.g. /blog
+url: "https://librlaurie.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 
 # Build settings
 markdown: kramdown
