@@ -2,9 +2,9 @@
 layout: default
 ---
 
-# Recent Presentations
+# Course Overview
 
-* [DLF 2018](dlf2018)
+* [DreamLab Site](http://web.sas.upenn.edu/dream-lab/2018/10/29/dh-library/)
 
 # Documentation
 
@@ -19,8 +19,5 @@ layout: default
 * [Jekyll and Github Pages](https://programminghistorian.org/en/lessons/building-static-sites-with-jekyll-github-pages) (by Amanda Visconti via [the Programming Historian](https://programminghistorian.org/))
 
 # Administrative
-* [Position Descriptions and Advertising](https://github.com/upenndigitalscholarship/tktk/blob/master/administrative/position_descriptions.md)
-* [Sample First Week Email](https://github.com/upenndigitalscholarship/tktk/blob/master/administrative/first_email.md)
-* [Sample Position Descriptions](https://github.com/upenndigitalscholarship/tktk/blob/master/administrative/position_descriptions.md)
-* [Sample Interview Questions](https://github.com/upenndigitalscholarship/tktk/blob/master/administrative/interview_ques.md)
-* [Student Role Planning Tool](https://upenndigitalscholarship.github.io/tktk/studentroles)
+* For Laurie while testing
+* [SLIDES](dlf2018)
