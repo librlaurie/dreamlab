@@ -9,12 +9,13 @@ layout: default
 
 ### Morning
 
-1. Introduction activity
-   1. Paper questionnaire?
+* Introduction activity
+   1. Index Card
       1. Name, pronoun
       2. Current Job
 2. Goal setting
    1. At the end, each participant will have a plan for a project of their own, or for a new collaborative approach to service development.
+      - Possible outcomes: project beginning, skills, partial planned;
    2. Dream up either an expansive publication or a service. We'll walk through the process from dreamed up to planned out over the next few days.
 3. What is publishing?
   * [SCUBA - Creating Definitions](http://bit.ly/creatingdefinitions)
@@ -22,11 +23,20 @@ layout: default
    1. Reference Interview
    2. Publishing
    3. Services
-   4. The pyramid...
+   4. The pyramid...and the story
 
 ### Afternoon
 * Collections as Data
+  - [Santa Barbara Statement on Collections as Data](https://collectionsasdata.github.io/statement/)
 * Publishing
+  - Fulcrum
+  - Manifold
+  - Library publishing ethics
+  - Janeway
+
+* Sample Datasets
+  - [Utah Matchbooks](https://github.com/marriott-library/collections-as-data/tree/master/matchbooks)
+  - [Carnegie Museum of Art](https://github.com/cmoa/collection)
 
 
 ## Day Two - Tools, Systems, Technologies
