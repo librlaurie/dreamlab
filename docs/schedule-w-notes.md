@@ -40,12 +40,15 @@ Brown, Stephanie Willen. “The Reference Interview: Theories and Practice,” 2
 
 Skim it - Talk about reference interview in light of the pyramid. Generous reading. Now critical reading? What might not work about the reference interview?
 
+Which of these questions work? What new questions come up when we're thinking about in a digital world?
+
 
 
 2:30 – 2:45 pm                        Break
 
 **2:45 – 4:30 pm**                       **Expansive and Inclusive?**
-Next Readings:
+
+**Next Readings**
 
 Adler, Kate. “Towards a Critical (Affective) Reference Practice: Emotional, Intellectual and Social Justice.” In Reference Librarianship and Justice: History, Practice & Praxis, 103–11. Sacramento, CA: Library Juice Press, n.d.
 
@@ -57,7 +60,7 @@ Drake, Jarrett M. “Seismic Shifts: On Archival Fact and Fictions.” Medium (b
 
 Caswell, Michelle, Alda Allina Migoni, Noah Geraci, and Marika Cifor. “‘To Be Able to Imagine Otherwise’: Community Archives and the Importance of Representation.” Archives and Records 38, no. 1 (January 2, 2017): 5–26. https://doi.org/10.1080/23257962.2016.1260445.
 
-4:15 - 4:30 pm                        Return to the goals
+**4:15 - 4:30 pm                        Return to the goals**
 
 5:00 – 7:30 pm                        Opening reception & Lightning Talks
 
@@ -69,10 +72,21 @@ Caswell, Michelle, Alda Allina Migoni, Noah Geraci, and Marika Cifor. “‘To B
 8:00 – 9:00 am                        Catered Breakfast
 
 **9:00 – 10:30 am**                      **Monument Lab**
+[Presentation about Monument Lab](https://drive.google.com/open?id=1AKAb_D28abs5ngi96gDhNQKTywkdj1Su)
+And conversation about cultural memory
 
 10:30 – 10:45 am                    Break
 
 **10:45 am – 12:00 pm**           **Collections as Data**
+[Collections as Data Presentation]()
+Collections as Data activities
+- [Fifty things](https://collectionsasdata.github.io/fiftythings/)
+- [Santa Barbara Statement](https://collectionsasdata.github.io/statement/)
+- [Closing Findings](https://doi.org/10.5281/zenodo.3152935)
+
+- Sample Datasets
+  - [Utah Matchbooks](https://github.com/marriott-library/collections-as-data/tree/master/matchbooks)
+  - [Carnegie Museum of Art](https://github.com/cmoa/collection)
 
 12:00 – 1:30 pm                      Lunch provided
 
@@ -89,7 +103,7 @@ Caswell, Michelle, Alda Allina Migoni, Noah Geraci, and Marika Cifor. “‘To B
 
 8:00 – 9:00 am                        Catered Breakfast
 
-**9:00 – 10:30 am**                     **Revising the plans - and progress**
+**9:00 – 10:30 am**                 **Revising the plans - and progress**
 
 10:30 – 10:45 am                    Break
 
@@ -136,60 +150,6 @@ Caswell, Michelle, Alda Allina Migoni, Noah Geraci, and Marika Cifor. “‘To B
 12:00 – 1:30 pm                      Lunch provided
 
 
-# Schedule
-
-## Day One - Libraries and Publishing - How to think about?
-
-### Morning
-
-9- 10AM Introductions and Goal Setting
-
-10AM - Noon - Libraries + Models
-
-10-10:10 - Draw or define the library.
-
-10:10- 10:30 - Conversation - working picture/definition (Account for the people, services, and collections)
-
-10:30 - 10:45 - Break
-
-10:45 - 11:00 Story
-
-11:00 - 11:30 - Pyramid
-
-11:30 - Fitting projects in the pyramid / revising goals.
-
-**Libraries 101**
-
-1. What is the library?
-   You can draw a picture, you can write a definition. Account for the people, services, and collections.
-
-- Radical Reference Introduction
-- The Reference Interview
-
-### Afternoon
-
-**Reading Activity**
-
-- [Decolonizing Attribution](https://journal.radicallibrarianship.org/index.php/journal/article/view/38)
-
-Monument Lab - expanding the cultural record
-
-
-
-## Day Two - More Expansive - New Models
-
-### Morning
-
-**Collections as Data (Libraries)**
-
-- Collections as Data
-
-  - [Santa Barbara Statement on Collections as Data](https://collectionsasdata.github.io/statement/)
-
-  - Sample Datasets
-    - [Utah Matchbooks](https://github.com/marriott-library/collections-as-data/tree/master/matchbooks)
-    - [Carnegie Museum of Art](https://github.com/cmoa/collection)
-
 ### Afternoon
 
 - Introduction to Markup and Markdown
@@ -211,7 +171,6 @@ Monument Lab - expanding the cultural record
 - Github Pages
 
 - Markdown and Jekyll light
-- [Markdown tutorial](https://www.markdowntutorial.com/)
 
 - Reclaim Hosting
 

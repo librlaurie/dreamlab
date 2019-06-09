@@ -12,9 +12,10 @@ layout: default
 # Training Workshops & Materials
 * [SLIDES](dreamslides)
 * [More Detailed Schedule](schedule-w-notes.html)
-* [How the Web Works](https://github.com/upenndigitalscholarship/tktk/tree/master/training_slides/web)
 * [Jekyll and Github Pages](https://programminghistorian.org/en/lessons/building-static-sites-with-jekyll-github-pages) (by Amanda Visconti via [the Programming Historian](https://programminghistorian.org/))
 * [Reclaim Hosting Site](http://dreamlablibrary.info/)
+* [Resources](resources.html)
+* [Google Slides](https://drive.google.com/open?id=1AKAb_D28abs5ngi96gDhNQKTywkdj1Su)
 
 
 ## Project and Service planning

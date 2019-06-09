@@ -8,7 +8,7 @@ layout: default
 
 
 
-### Monday                            What Happens in Libraries?
+### Monday  -  What Happens in Libraries?
  8:00 – 9:00 am                        Check in and Catered Breakfast
 
 9:00 – 9:30 am                        Welcome
@@ -32,7 +32,7 @@ layout: default
 --
 
 
-### Tuesday
+### Tuesday - Various Approaches
 
 8:00 – 9:00 am                        Catered Breakfast
 
@@ -53,7 +53,7 @@ layout: default
 --
 
 
-### Wednesday
+### Wednesday -- Publishing and Preservation
 
 8:00 – 9:00 am                        Catered Breakfast
 
@@ -74,7 +74,7 @@ layout: default
 --
 
 
-### Thursday
+### Thursday - Project Management, Scaling and Sustainability
 
 8:00 – 9:00 am                        Catered Breakfast
 
