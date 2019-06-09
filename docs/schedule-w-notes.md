@@ -136,7 +136,18 @@ Collections as Data activities
 
 **9:00 – 10:30 am**                 **Revising the plans - and progress**
 
-Catching up on yesterday - returning to expansive and inclusive?
+Catching up on yesterday - returning to expansive and inclusive? - Start ScholComm and publishing conversation
+
+- Publishing Platforms
+  - Fulcrum
+  - Manifold
+  - OJS
+  - Janeway
+  - Static Sites
+
+  - Library Publishing Coalition
+    - [Shared Documentation Activity](https://librarypublishing.org/category/resources/documentation/)
+    - [Library Publishing and Ethics](https://librarypublishing.org/category/resources/documentation/)
 
 10:30 – 10:45 am                    Break
 
@@ -152,12 +163,6 @@ Web Archiving
 
 “National Forum on Ethics and Archiving the Web | March 22-24 2018.” Accessed June 9, 2019. https://eaw.rhizome.org/.
 
-
-Community Archiving
-
-Drake, Jarrett M. “Seismic Shifts: On Archival Fact and Fictions.” Medium (blog), August 20, 2018. [https://medium.com/community-archives/seismic-shifts-on-archival-fact-and-fictions-6db4d5c655ae](https://medium.com/community-archives/seismic-shifts-on-archival-fact-and-fictions-6db4d5c655ae).
-
-
 2:30 – 2:45 pm                        Break
 
 2:45 – 5:00 pm                       **Preservation**
@@ -167,6 +172,13 @@ Owens, Trevor. The Theory and Craft of Digital Preservation. 1st Edition edition
 Phillips, Megan. “The NDSA Levels of Digital Preservation: An Explanation and Uses,” n.d., 7. [https://ndsa.org/documents/NDSA_Levels_Archiving_2013.pdf](https://ndsa.org/documents/NDSA_Levels_Archiving_2013.pdf)
 
 Reviewing project plans in use by Penn DS department
+
+Community Archiving
+
+Drake, Jarrett M. “Seismic Shifts: On Archival Fact and Fictions.” Medium (blog), August 20, 2018. [https://medium.com/community-archives/seismic-shifts-on-archival-fact-and-fictions-6db4d5c655ae](https://medium.com/community-archives/seismic-shifts-on-archival-fact-and-fictions-6db4d5c655ae).
+
+
+4:45 - 5:00 Revisit goals and plans - checkin for tomorrow
 --
 
 
@@ -176,13 +188,24 @@ Reviewing project plans in use by Penn DS department
 
 9:00 – 10:30 am                      **Project Planning Resources**
 
+* [Socio-technical Sustainability Roadmap](https://sites.haa.pitt.edu/sustainabilityroadmap/)
+* [Yale DH Lab - Starting a Project](http://dhlab.yale.edu/guides.html)
+* [SCUBA - Creating Definitions](http://bit.ly/creatingdefinitions)
+
+Laurie's project management rules...
+
+
 10:30 – 10:45 am                    Break
 
 10:45 am – 12:00 pm             **Revising and planning**
 
+Finishing goals. Returning to justice conversation.
+
 12:00 – 1:30 pm                      Lunch provided
 
 1:30 – 2:30 pm                       **Debrief and closing**
+
+What are we presenting to the group?
 
 2:30 – 2:45 pm                        Break
 
@@ -200,12 +223,6 @@ Reviewing project plans in use by Penn DS department
 12:00 – 1:30 pm                      Lunch provided (LA - finish Omeka & Scalar setups)
 
 
-### Afternoon
-
-
-
-### Afternoon
-
 - Some Tools
   - Storymaps from ESRI
   - Airtables
@@ -213,45 +230,8 @@ Reviewing project plans in use by Penn DS department
   - Palladio from Stanford
   - Scalar
 
-## Day Three
-
-### Morning
-
-**Experimental forms of publishing (Publishing)**
-
-- Publishing Platforms
-  - Fulcrum
-  - Manifold
-  - OJS
-  - Janeway
-  - Minimal Computing tools
-
-**Thinking about Publishing in libraries**
-
-- Services
+#
 - What is publishing?
       The Library Publishing Coalition defines library publishing at its website “as the set of activities led by...libraries to support the creation, dissemination, and curation of scholarly, creative, and/or educational works.” The statement makes explicit the distinctions that qualify these activities as publishing: “...library publishing requires a production process, presents original work not previously made available, and applies a level of certification to the content published, whether through peer review or extension of the institutional brand.” [1]
-- Gatekeeping conversation
-      https://medium.com/community-archives
-- What is a service?
-- [SCUBA - Creating Definitions](http://bit.ly/creatingdefinitions)
-- Library Publishing Coalition
-  - [Shared Documentation Activity](https://librarypublishing.org/category/resources/documentation/)
-  - [Library Publishing and Ethics](https://librarypublishing.org/category/resources/documentation/)
-
-### Afternoon -  Projects
-
-## Day Four - Project Planning
-
-- [Socio-technical Sustainability Roadmap](https://sites.haa.pitt.edu/sustainabilityroadmap/)
-- [Yale DH Lab - Starting a Project](http://dhlab.yale.edu/guides.html)
-
-### Morning
-
-### Afternoon
-
-At the end, each participant will have a plan for a project of their own, or for a new collaborative approach to service development.
-
-
 
 [1]:“An Ethical Framework for Library Publishing.” Purdue University, July 6, 2018. https://doi.org/10.5703/1288284316777.
