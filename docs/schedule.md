@@ -65,11 +65,11 @@ layout: default
 
 12:00 – 1:30 pm                      Lunch provided
 
-**1:30 – 2:30 pm**                        **Web Archiving + Community Archiving**
+**1:30 – 2:30 pm**                        **Web Archiving**
 
 2:30 – 2:45 pm                        Break
 
-2:45 – 5:00 pm                       **Preservation and Sustainability**
+2:45 – 5:00 pm                       **Preservation**
 
 --
 

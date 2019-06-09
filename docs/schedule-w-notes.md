@@ -7,7 +7,6 @@ layout: default
 ### DReAM Lab will be taking place June 10-14, 2019. Here is the full schedule:
 
 
-
 ### Monday
 
 **Materials**
@@ -54,11 +53,14 @@ Adler, Kate. “Towards a Critical (Affective) Reference Practice: Emotional, In
 
 Drabinski, Emily. “Teaching the Radical Catalog,” 2016.[https://osf.io/preprints/lissa/5cpjt/](https://osf.io/preprints/lissa/5cpjt/)
 
-Drake, Jarrett M. “Seismic Shifts: On Archival Fact and Fictions.” Medium (blog), August 20, 2018. https://medium.com/community-archives/seismic-shifts-on-archival-fact-and-fictions-6db4d5c655ae.
-
 “Vocational Awe and Librarianship: The Lies We Tell Ourselves – In the Library with the Lead Pipe.”  [http://www.inthelibrarywiththeleadpipe.org/2018/vocational-awe/](http://www.inthelibrarywiththeleadpipe.org/2018/vocational-awe)
 
 Caswell, Michelle, Alda Allina Migoni, Noah Geraci, and Marika Cifor. “‘To Be Able to Imagine Otherwise’: Community Archives and the Importance of Representation.” Archives and Records 38, no. 1 (January 2, 2017): 5–26. https://doi.org/10.1080/23257962.2016.1260445.
+
+Share what that one was about...
+
+How can libraries cause harm?
+
 
 **4:15 - 4:30 pm                        Return to the goals**
 
@@ -67,11 +69,11 @@ Caswell, Michelle, Alda Allina Migoni, Noah Geraci, and Marika Cifor. “‘To B
 --
 
 
-### Tuesday
+### Tuesday - Various Approaches
 
 8:00 – 9:00 am                        Catered Breakfast
 
-**9:00 – 10:30 am**                      **Monument Lab**
+**9:00 – 10:30 am**                   **Monument Lab**
 [Presentation about Monument Lab](https://drive.google.com/open?id=1AKAb_D28abs5ngi96gDhNQKTywkdj1Su)
 And conversation about cultural memory
 
@@ -91,36 +93,84 @@ Collections as Data activities
 12:00 – 1:30 pm                      Lunch provided
 
 **1:30 – 2:30 pm**                       **Making websites**
+- Introduction to Markup and Markdown
+- Databases, websites, content management systems, static site generators – when and why do people choose these?
+- What is a publication? Review, timescale, collaborative authorship, etc
+- In what ways do these questions intersect with systems of power, and how can mindful approaches to those systems help shape our practices?
+
+- [How the Web Works](https://drive.google.com/open?id=1cXlQJBBpp5sEIP4co-645ioN7f9ciMYl)
+- HTML, Servers, Markup Markdown
+
+- [Install Atom](https://pandoc.org/installing.html)
+- [Install Pandoc](https://pandoc.org/installing.html)
+- [Markdown tutorial](https://www.markdowntutorial.com/)
+- [Typora](https://typora.io/)
+
 
 2:30 – 2:45 pm                        Break
 
 **2:45 – 5:00 pm**                       **More making websites**
 
+**New websites for everyone**
+
+- [Github Pages](https://pages.github.com/)
+
+- [Markdown and Jekyll light](https://help.github.com/en/articles/using-jekyll-as-a-static-site-generator-with-github-pages)
+
+- Reclaim Hosting
+
+- Omeka and Scalar - Using the Monument Lab data (or your own data!)
+
+**Cloud or other servers**
+
+- Digital Ocean
+- AWS
+- Whatever your institution has
+
 --
 
 
-### Wednesday
+### Wednesday  -- Publishing and Preservation
 
 8:00 – 9:00 am                        Catered Breakfast
 
 **9:00 – 10:30 am**                 **Revising the plans - and progress**
 
+Catching up on yesterday - returning to expansive and inclusive?
+
 10:30 – 10:45 am                    Break
 
 **10:45 am – 12:00 pm**            **Scholarly Communications and Publishing Platforms**
 
+Visit from Sarah Wipperman!! 11AM, we hope!
+
 12:00 – 1:30 pm                      Lunch provided
 
-**1:30 – 2:30 pm**                        **Web Archiving + Community Archiving**
+**1:30 – 2:30 pm**                        **Web Archiving**
+
+Web Archiving
+
+“National Forum on Ethics and Archiving the Web | March 22-24 2018.” Accessed June 9, 2019. https://eaw.rhizome.org/.
+
+
+Community Archiving
+
+Drake, Jarrett M. “Seismic Shifts: On Archival Fact and Fictions.” Medium (blog), August 20, 2018. [https://medium.com/community-archives/seismic-shifts-on-archival-fact-and-fictions-6db4d5c655ae](https://medium.com/community-archives/seismic-shifts-on-archival-fact-and-fictions-6db4d5c655ae).
+
 
 2:30 – 2:45 pm                        Break
 
-2:45 – 5:00 pm                       **Preservation and Sustainability**
+2:45 – 5:00 pm                       **Preservation**
 
+Owens, Trevor. The Theory and Craft of Digital Preservation. 1st Edition edition. Baltimore: Johns Hopkins University Press, 2018. [https://osf.io/preprints/lissa/5cpjt/](https://osf.io/preprints/lissa/5cpjt/).
+
+Phillips, Megan. “The NDSA Levels of Digital Preservation: An Explanation and Uses,” n.d., 7. [https://ndsa.org/documents/NDSA_Levels_Archiving_2013.pdf](https://ndsa.org/documents/NDSA_Levels_Archiving_2013.pdf)
+
+Reviewing project plans in use by Penn DS department
 --
 
 
-### Thursday
+### Thursday - Project Management, Scaling and Sustainability
 
 8:00 – 9:00 am                        Catered Breakfast
 
@@ -147,40 +197,12 @@ Collections as Data activities
 
 10:00 am – 12:00 pm             Optional Break-out Session
 
-12:00 – 1:30 pm                      Lunch provided
+12:00 – 1:30 pm                      Lunch provided (LA - finish Omeka & Scalar setups)
 
 
 ### Afternoon
 
-- Introduction to Markup and Markdown
-- Databases, websites, content management systems, static site generators – when and why do people choose these?
-- What is a publication? Review, timescale, collaborative authorship, etc
-- In what ways do these questions intersect with systems of power, and how can mindful approaches to those systems help shape our practices?
 
-- [How the Web Works](https://github.com/librlaurie/dreamlab/training_slides/command_line_basics.pptx)
-- HTML, Servers, Markup Markdown
-
-- [Install Atom](https://pandoc.org/installing.html)
-- [Install Pandoc](https://pandoc.org/installing.html)
-- [Markdown tutorial](https://www.markdowntutorial.com/)
-- Typora and Pandoc
-- [HTML 5up]()
-
-**New websites for everyone**
-
-- Github Pages
-
-- Markdown and Jekyll light
-
-- Reclaim Hosting
-
-- Omeka, Scalar
-
-**Cloud or other servers**
-
-- Digital Ocean
-- AWS
-- Whatever your institution has
 
 ### Afternoon
 
