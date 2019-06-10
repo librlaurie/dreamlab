@@ -57,6 +57,8 @@ Drabinski, Emily. “Teaching the Radical Catalog,” n.d., 8.[http://www.emilyd
 
 Caswell, Michelle, Alda Allina Migoni, Noah Geraci, and Marika Cifor. “‘To Be Able to Imagine Otherwise’: Community Archives and the Importance of Representation.” Archives and Records 38, no. 1 (January 2, 2017): 5–26. [https://doi.org/10.1080/23257962.2016.1260445](https://doi.org/10.1080/23257962.2016.1260445).
 
+Kirsten Bell. 2018. 'Misleading metrics' and the ecology of scholarly publishing. In Predatory Publishing.[https://hcommons.org/deposits/objects/hc:19828/datastreams/CONTENT/content](https://hcommons.org/deposits/objects/hc:19828/datastreams/CONTENT/content) Post Office Press, Rope Press and punctum books.
+
 Share what that one was about...
 
 How can libraries cause harm?
