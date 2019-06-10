@@ -4,7 +4,7 @@ layout: default
 ---
 # Schedule
 
-### DReAM Lab will be taking place June 10-14, 2019. Here is the full schedule:
+### DReAM Lab will be taking place June 10-14, 2019. Here is the full schedule
 
 
 
@@ -28,6 +28,8 @@ layout: default
 **2:45 – 4:30 pm**                       **Expansive and Inclusive?**
 
 5:00 – 7:30 pm                        Opening reception & Lightning Talks
+
+[Lightning Talks](http://bit.ly/DreamLightningTalks)
 
 --
 
