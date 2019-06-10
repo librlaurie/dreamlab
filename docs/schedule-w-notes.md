@@ -35,7 +35,7 @@ Throw ideas at the pyramid
 
 **1:30 – 2:30 pm**                        **The Reference Interview**
 
-Brown, Stephanie Willen. “The Reference Interview: Theories and Practice,” 2008, 9.
+Brown, Stephanie Willen. “The Reference Interview: Theories and Practice,” 2008, 9.[https://opencommons.uconn.edu/cgi/viewcontent.cgi?article=1012&context=libr_pubs](https://opencommons.uconn.edu/cgi/viewcontent.cgi?article=1012&context=libr_pubs)
 
 Skim it - Talk about reference interview in light of the pyramid. Generous reading. Now critical reading? What might not work about the reference interview?
 
@@ -55,7 +55,7 @@ Drabinski, Emily. “Teaching the Radical Catalog,” 2016.[https://osf.io/prepr
 
 “Vocational Awe and Librarianship: The Lies We Tell Ourselves – In the Library with the Lead Pipe.”  [http://www.inthelibrarywiththeleadpipe.org/2018/vocational-awe/](http://www.inthelibrarywiththeleadpipe.org/2018/vocational-awe)
 
-Caswell, Michelle, Alda Allina Migoni, Noah Geraci, and Marika Cifor. “‘To Be Able to Imagine Otherwise’: Community Archives and the Importance of Representation.” Archives and Records 38, no. 1 (January 2, 2017): 5–26. https://doi.org/10.1080/23257962.2016.1260445.
+Caswell, Michelle, Alda Allina Migoni, Noah Geraci, and Marika Cifor. “‘To Be Able to Imagine Otherwise’: Community Archives and the Importance of Representation.” Archives and Records 38, no. 1 (January 2, 2017): 5–26. [https://doi.org/10.1080/23257962.2016.1260445](https://doi.org/10.1080/23257962.2016.1260445).
 
 Share what that one was about...
 
