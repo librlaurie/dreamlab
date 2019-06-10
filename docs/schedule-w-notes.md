@@ -51,7 +51,7 @@ Which of these questions work? What new questions come up when we're thinking ab
 
 Adler, Kate. “Towards a Critical (Affective) Reference Practice: Emotional, Intellectual and Social Justice.” In Reference Librarianship and Justice: History, Practice & Praxis, 103–11. Sacramento, CA: Library Juice Press, n.d.
 
-Drabinski, Emily. “Teaching the Radical Catalog,” 2016.[https://osf.io/preprints/lissa/5cpjt/](https://osf.io/preprints/lissa/5cpjt/)
+Drabinski, Emily. “Teaching the Radical Catalog,” n.d., 8.[http://www.emilydrabinski.com/wp-content/uploads/2012/06/drabinski_radcat.pdf](http://www.emilydrabinski.com/wp-content/uploads/2012/06/drabinski_radcat.pdf)
 
 “Vocational Awe and Librarianship: The Lies We Tell Ourselves – In the Library with the Lead Pipe.”  [http://www.inthelibrarywiththeleadpipe.org/2018/vocational-awe/](http://www.inthelibrarywiththeleadpipe.org/2018/vocational-awe)
 

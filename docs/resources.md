@@ -33,7 +33,6 @@ Brook, Freeda, Dave Ellenwood, and Althea Eannace Lazzaro. “In Pursuit of Anti
 
 Brown, Stephanie Willen. “The Reference Interview: Theories and Practice,” 2008, 9.[https://opencommons.uconn.edu/cgi/viewcontent.cgi?article=1012&context=libr_pubs](https://opencommons.uconn.edu/cgi/viewcontent.cgi?article=1012&context=libr_pubs)
 
-
 “Care, Code, and Digital Libraries: Embracing Critical Practice in Digital Library Communities – In the Library with the Lead Pipe.” Accessed June 9, 2019. /2019/digital-libraries-critical-practice-in-communities/.
 
 Caswell, Michelle, and Marika Cifor. “From Human Rights to Feminist Ethics: Radical Empathy in the Archives.” Archivaria 82, no. 0 (May 6, 2016): 23–43.
@@ -52,17 +51,25 @@ Densho. “Community Engaged Archives for Social Change.” Medium (blog), Octob
 
 Doherty, John J. “Reference Interview or Reference Dialogue?” Internet Reference Services Quarterly 11, no. 3 (October 13, 2006): 97–109. https://doi.org/10.1300/J136v11n03_07.
 
-Drabinski, Emily. “Teaching the Radical Catalog,” n.d., 8.
+Drabinski, Emily. “Teaching the Radical Catalog,” n.d., 8.[http://www.emilydrabinski.com/wp-content/uploads/2012/06/drabinski_radcat.pdf](http://www.emilydrabinski.com/wp-content/uploads/2012/06/drabinski_radcat.pdf)
 
 Drake, Jarrett M. “‘Graveyards of Exclusion:’ Archives, Prisons, and the Bounds of Belonging.” Medium (blog), March 27, 2019. https://medium.com/community-archives/graveyards-of-exclusion-archives-prisons-and-the-bounds-of-belonging-c40c85ff1663.
 
-———. “Seismic Shifts: On Archival Fact and Fictions.” Medium (blog), August 20, 2018. https://medium.com/community-archives/seismic-shifts-on-archival-fact-and-fictions-6db4d5c655ae.
+———. “Seismic Shifts: On Archival Fact and Fictions.” Medium (blog), August 20, 2018. [https://medium.com/community-archives/seismic-shifts-on-archival-fact-and-fictions-6db4d5c655ae](https://medium.com/community-archives/seismic-shifts-on-archival-fact-and-fictions-6db4d5c655ae).
+
 Jules, Bergis. “Architecting Sustainable Futures: Exploring Funding Models in Community-Based Archives.” Medium (blog), June 19, 2018. https://medium.com/community-archives/architecting-sustainable-futures-exploring-funding-models-in-community-based-archives-da9a7a856cbe.
+
 ———. “Let the People Lead: Supporting Sustainability vs Dependency Models for Funding Community-Based….” Medium (blog), March 6, 2018. https://medium.com/community-archives/let-the-people-lead-supporting-sustainability-vs-dependency-models-for-funding-community-based-b114948c0e74.
+
 ———. “Report-Architecting Sustainable Futures: Exploring Funding Models in Community-Based Archives.” Medium (blog), February 25, 2019. https://medium.com/community-archives/report-architecting-sustainable-futures-exploring-funding-models-in-community-based-archives-163f2ba073c7.
+
 “Kirsten Bell (Anthropologist Not the Actress).” Kirsten Bell (anthropologist not the actress). Accessed June 27, 2018. https://www.notkristenbell.com.
+
+Kirsten Bell. 2018. 'Misleading metrics' and the ecology of scholarly publishing. In Predatory Publishing.[https://hcommons.org/deposits/objects/hc:19828/datastreams/CONTENT/content](https://hcommons.org/deposits/objects/hc:19828/datastreams/CONTENT/content) Post Office Press, Rope Press and punctum books.
+
 “National Forum on Ethics and Archiving the Web | March 22-24 2018.” Accessed June 9, 2019. https://eaw.rhizome.org/.
 Omowale, Yusef. “Encountering the Archive.” Medium (blog), April 22, 2019. https://medium.com/community-archives/encountering-the-archive-e373a35bd42.
+
 Owens, Trevor. “The Theory and Craft of Digital Preservation,” July 15, 2017. https://doi.org/10.31229/osf.io/5cpjt.
 ———. The Theory and Craft of Digital Preservation. 1st Edition edition. Baltimore: Johns Hopkins University Press, 2018. https://osf.io/preprints/lissa/5cpjt/.
 “Phillips - The NDSA Levels of Digital Preservation An Explan.Pdf.” Accessed June 9, 2019. https://ndsa.org/documents/NDSA_Levels_Archiving_2013.pdf.
