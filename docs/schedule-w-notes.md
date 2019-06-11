@@ -71,14 +71,21 @@ How can libraries cause harm?
 --
 
 
-### Tuesday - Various Approaches
+## Tuesday - Various Approaches
 
 8:00 – 9:00 am                        Catered Breakfast
 
 **9:00 – 10:30 am**                  **Project Planning Resources**
+
+**Welcome Michelle**
+
+1. Strategies for noise sanity
+
 Quick overview of lessons in project planning tools.
 
-Project planning versus project management, and the role of project charters.
+- Project planning versus project management.
+- And the role of project charters
+- Working alone vs working with other people.
 
 LA shows a couple examples from my worlds. (asana for psp, trello for jdh, google doc for swipp and me)
 
@@ -86,12 +93,14 @@ LA shows a couple examples from my worlds. (asana for psp, trello for jdh, googl
 * [Yale DH Lab - Starting a Project](http://dhlab.yale.edu/guides.html)
 
 Also see:
-* [SCUBA - Creating Definitions](http://bit.ly/creatingdefinitions)  
+* [SCUBA - Creating Definitions](http://bit.ly/creatingdefiitions)  
 * [Liberating Structures](http://www.liberatingstructures.com/)
 
 
 In pairs, select one project to work through the following modules:
+
 **STSR**
+
 - [Module A1](https://sites.haa.pitt.edu/sustainabilityroadmap/a1-project-scope/)
 - [Module A3](https://sites.haa.pitt.edu/sustainabilityroadmap/a3-audience/)
 - [Module B2](https://sites.haa.pitt.edu/sustainabilityroadmap/b2-technologicalinfrastructure/)
@@ -114,6 +123,8 @@ Switch partners, projects, and tools.
 
 **1:30 – 2:30 pm**                       **Making websites**
 
+1:30 - 1:45 Goals check-in. Schedule checkin.
+
 **How the web works**
 - [Install Atom](https://pandoc.org/installing.html)
 - [Install Pandoc](https://pandoc.org/installing.html)
@@ -132,24 +143,20 @@ Switch partners, projects, and tools.
 - Whatever your institution has
 - Introduction to Markup and Markdown
 - Databases, websites, content management systems, static site generators – when and why do people choose these?
-- What is a publication? Review, timescale, collaborative authorship, etc
 - In what ways do these questions intersect with systems of power, and how can mindful approaches to those systems help shape our practices?
 
 **New websites for everyone**
 
 - [Github Pages](https://pages.github.com/)
-
 - [Markdown and Jekyll light](https://help.github.com/en/articles/using-jekyll-as-a-static-site-generator-with-github-pages)
-
 - Reclaim Hosting
-
 - Omeka and Scalar - Using the Monument Lab data (or your own data!)
 
 
 --
 
 
-### Wednesday  -- Publishing and Preservation
+## Wednesday  -- Publishing and Preservation
 
 8:00 – 9:00 am                        Catered Breakfast
 
@@ -180,7 +187,8 @@ Visit from Sarah Wipperman!! 11AM, we hope!
 
 Web Archiving
 
-“National Forum on Ethics and Archiving the Web | March 22-24 2018.” Accessed June 9, 2019. https://eaw.rhizome.org/.
+“National Forum on Ethics and Archiving the Web
+March 22-24 2018.” Accessed June 9, 2019.[https://eaw.rhizome.org/](https://eaw.rhizome.org/).
 
 2:30 – 2:45 pm                        Break
 
@@ -196,12 +204,23 @@ Community Archiving
 
 Drake, Jarrett M. “Seismic Shifts: On Archival Fact and Fictions.” Medium (blog), August 20, 2018. [https://medium.com/community-archives/seismic-shifts-on-archival-fact-and-fictions-6db4d5c655ae](https://medium.com/community-archives/seismic-shifts-on-archival-fact-and-fictions-6db4d5c655ae).
 
+or...
+Monument Lab ***plus*** Toolapalooza
+- Some Tools
+  - Storymaps from ESRI
+  - Airtables
+  - Timeline.js and Storymaps.js
+  - Palladio from Stanford
+  - Density Design
+  - Scalar
+
 
 4:45 - 5:00 Revisit goals and plans - checkin for tomorrow
+
 --
 
 
-### Thursday - Project Management, Scaling and Sustainability
+## Thursday - Project Management, Scaling and Sustainability
 
 8:00 – 9:00 am                        Catered Breakfast
 
@@ -243,6 +262,7 @@ What are we presenting to the group?
   - Airtables
   - Timeline.js and Storymaps.js
   - Palladio from Stanford
+  - Density Design
   - Scalar
 
 #
