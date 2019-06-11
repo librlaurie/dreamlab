@@ -126,7 +126,7 @@ Switch partners, projects, and tools.
 1:30 - 1:45 Goals check-in. Schedule checkin.
 
 **How the web works**
-- [Install Atom](https://pandoc.org/installing.html)
+- [Install Atom](https://atom.io/)
 - [Install Pandoc](https://pandoc.org/installing.html)
 - [Markdown tutorial](https://www.markdowntutorial.com/)
 - [Typora](https://typora.io/)
