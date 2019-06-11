@@ -3,7 +3,7 @@ layout: default
 ---
 
 
-##Bibliography and References
+## Bibliography and References
 
 
 Helping people build repertoires of tools and ways of thinking about digital scholarship.
@@ -21,7 +21,7 @@ Adler, Kate, Ian Beilin, and Eamon Tewell, eds. Reference Librarianship & Justic
 “An Ethical Framework for Library Publishing.” Purdue University, July 6, 2018. https://doi.org/10.5703/1288284316777.
 “An Ethical Framework for Library Publishing | Library Publishing Coalition.” Accessed June 8, 2019. https://librarypublishing.org/resources/ethical-framework/.
 
-Anderson, Jane, and Kimberly Christen. “Decolonizing Attribution.” Journal of Radical Librarianship 5 (June 3, 2019): 113–52.
+Anderson, Jane, and Kimberly Christen. “Decolonizing Attribution.” Journal of Radical Librarianship 5 (June 3, 2019): 113–52.[https://journal.radicallibrarianship.org/index.php/journal/article/view/38](https://journal.radicallibrarianship.org/index.php/journal/article/view/38)
 
 Archive, Interference. “Sustainability at Interference Archive.” Medium (blog), August 6, 2018. https://medium.com/community-archives/sustainability-at-interference-archive-4c33ebed69d8.
 
@@ -57,34 +57,52 @@ Drake, Jarrett M. “‘Graveyards of Exclusion:’ Archives, Prisons, and the B
 
 ———. “Seismic Shifts: On Archival Fact and Fictions.” Medium (blog), August 20, 2018. [https://medium.com/community-archives/seismic-shifts-on-archival-fact-and-fictions-6db4d5c655ae](https://medium.com/community-archives/seismic-shifts-on-archival-fact-and-fictions-6db4d5c655ae).
 
-Jules, Bergis. “Architecting Sustainable Futures: Exploring Funding Models in Community-Based Archives.” Medium (blog), June 19, 2018. https://medium.com/community-archives/architecting-sustainable-futures-exploring-funding-models-in-community-based-archives-da9a7a856cbe.
+Jules, Bergis. “Architecting Sustainable Futures: Exploring Funding Models in Community-Based Archives.” Medium (blog), June 19, 2018. [https://medium.com/community-archives/architecting-sustainable-futures-exploring-funding-models-in-community-based-archives-da9a7a856cbe](https://medium.com/community-archives/architecting-sustainable-futures-exploring-funding-models-in-community-based-archives-da9a7a856cbe).
 
-———. “Let the People Lead: Supporting Sustainability vs Dependency Models for Funding Community-Based….” Medium (blog), March 6, 2018. https://medium.com/community-archives/let-the-people-lead-supporting-sustainability-vs-dependency-models-for-funding-community-based-b114948c0e74.
+———. “Let the People Lead: Supporting Sustainability vs Dependency Models for Funding Community-Based….” Medium (blog), March 6, 2018. [https://medium.com/community-archives/let-the-people-lead-supporting-sustainability-vs-dependency-models-for-funding-community-based-b114948c0e74](https://medium.com/community-archives/let-the-people-lead-supporting-sustainability-vs-dependency-models-for-funding-community-based-b114948c0e74).
 
-———. “Report-Architecting Sustainable Futures: Exploring Funding Models in Community-Based Archives.” Medium (blog), February 25, 2019. https://medium.com/community-archives/report-architecting-sustainable-futures-exploring-funding-models-in-community-based-archives-163f2ba073c7.
+———. “Report-Architecting Sustainable Futures: Exploring Funding Models in Community-Based Archives.” Medium (blog), February 25, 2019. [https://medium.com/community-archives/report-architecting-sustainable-futures-exploring-funding-models-in-community-based-archives-163f2ba073c7](https://medium.com/community-archives/report-architecting-sustainable-futures-exploring-funding-models-in-community-based-archives-163f2ba073c7).
 
-“Kirsten Bell (Anthropologist Not the Actress).” Kirsten Bell (anthropologist not the actress). Accessed June 27, 2018. https://www.notkristenbell.com.
+“Kirsten Bell (Anthropologist Not the Actress).” Kirsten Bell (anthropologist not the actress). Accessed June 27, 2018. [https://www.notkristenbell.com](https://www.notkristenbell.com).
 
 Kirsten Bell. 2018. 'Misleading metrics' and the ecology of scholarly publishing. In Predatory Publishing.[https://hcommons.org/deposits/objects/hc:19828/datastreams/CONTENT/content](https://hcommons.org/deposits/objects/hc:19828/datastreams/CONTENT/content) Post Office Press, Rope Press and punctum books.
 
-“National Forum on Ethics and Archiving the Web | March 22-24 2018.” Accessed June 9, 2019. https://eaw.rhizome.org/.
-Omowale, Yusef. “Encountering the Archive.” Medium (blog), April 22, 2019. https://medium.com/community-archives/encountering-the-archive-e373a35bd42.
+“National Forum on Ethics and Archiving the Web | March 22-24 2018.” Accessed June 9, 2019. [https://eaw.rhizome.org/](https://eaw.rhizome.org/).
 
-Owens, Trevor. “The Theory and Craft of Digital Preservation,” July 15, 2017. https://doi.org/10.31229/osf.io/5cpjt.
-———. The Theory and Craft of Digital Preservation. 1st Edition edition. Baltimore: Johns Hopkins University Press, 2018. https://osf.io/preprints/lissa/5cpjt/.
-“Phillips - The NDSA Levels of Digital Preservation An Explan.Pdf.” Accessed June 9, 2019. https://ndsa.org/documents/NDSA_Levels_Archiving_2013.pdf.
+Omowale, Yusef. “Encountering the Archive.” Medium (blog), April 22, 2019. [https://medium.com/community-archives/encountering-the-archive-e373a35bd42](https://medium.com/community-archives/encountering-the-archive-e373a35bd42).
+
+Owens, Trevor. “The Theory and Craft of Digital Preservation,” July 15, 2017. [https://doi.org/10.31229/osf.io/5cpjt](https://doi.org/10.31229/osf.io/5cpjt).
+
+———. The Theory and Craft of Digital Preservation. 1st Edition edition. Baltimore: Johns Hopkins University Press, 2018. [https://osf.io/preprints/lissa/5cpjt/](https://doi.org/10.31229/osf.io/5cpjt).
+
+“Phillips - The NDSA Levels of Digital Preservation An Explan.Pdf.” Accessed June 9, 2019. [https://ndsa.org/documents/NDSA_Levels_Archiving_2013.pdf](https://ndsa.org/documents/NDSA_Levels_Archiving_2013.pdf).
+
 Phillips, Megan. “The NDSA Levels of Digital Preservation: An Explanation and Uses,” n.d., 7.
-“Predatory Publishing from a Global South Perspective | Library Publishing Coalition.” Accessed June 27, 2018. https://librarypublishing.org/predatory-publishing-global-south-perspective/.
-Project, The Archives Unleashed. “The Archives Unleashed Project.” Accessed June 9, 2019. https://archivesunleashed.org/.
-———. “The Archives Unleashed Project.” Accessed June 9, 2019. https://archivesunleashed.org/.
-“Protocols for Native American Archival Materials.” Accessed June 9, 2019. http://www2.nau.edu/libnap-p/protocols.html.
-“Reading List.” Rare Book School. Accessed June 8, 2019. https://rarebookschool.org/courses/%rbs_departments%/l115/reading-list/.
-“Reference Librarianship & Justice.” Litwin Books & Library Juice Press (blog). Accessed May 4, 2019. https://litwinbooks.com/books/reference-librarianship-justice/.
-“Reference Librarianship & Justice.” Litwin Books & Library Juice Press (blog). Accessed June 9, 2019. https://litwinbooks.com/books/reference-librarianship-justice/.
-“Related Organizations – Archives Unleashed.” Accessed June 9, 2019. http://archivesunleashed.com/related-organizations/.
-“The Feminist Reference Desk.” Litwin Books & Library Juice Press (blog). Accessed May 4, 2019. https://litwinbooks.com/books/the-feminist-reference-desk/.
-“The Santa Barbara Statement on Collections as Data.” Always Already Computational - Collections as Data. Accessed June 8, 2019. https://collectionsasdata.github.io/statement/.
-tjowens. “First 3 Chapters of Theory and Craft of Digital Preservation for Comment.” Trevor Owens (blog), February 11, 2017. http://www.trevorowens.org/2017/02/first-3-chapters-of-theory-and-craft-of-digital-preservation-for-comment/.
-Vinopal, Jennifer, and Monica McCormick. “Supporting Digital Scholarship in Research Libraries: Scalability and Sustainability.” Journal of Library Administration 53, no. 1 (January 2013): 27–42. https://doi.org/10.1080/01930826.2013.756689.
+
+“Predatory Publishing from a Global South Perspective | Library Publishing Coalition.” Accessed June 27, 2018. [https://librarypublishing.org/predatory-publishing-global-south-perspective/](https://librarypublishing.org/predatory-publishing-global-south-perspective/).
+
+Project, The Archives Unleashed. “The Archives Unleashed Project.” Accessed June 9, 2019. [https://archivesunleashed.org/](https://archivesunleashed.org/).
+
+———. “The Archives Unleashed Project.” Accessed June 9, 2019. [https://archivesunleashed.org/](https://archivesunleashed.org/).
+
+“Protocols for Native American Archival Materials.” Accessed June 9, 2019. [http://www2.nau.edu/libnap-p/protocols.html](http://www2.nau.edu/libnap-p/protocols.html).
+
+“Reading List.” Rare Book School. Accessed June 8, 2019. [https://rarebookschool.org/courses/%rbs_departments%/l115/reading-list/](https://rarebookschool.org/courses/%rbs_departments%/l115/reading-list/).
+
+“Reference Librarianship & Justice.” Litwin Books & Library Juice Press (blog). Accessed May 4, 2019. [https://litwinbooks.com/books/reference-librarianship-justice/](https://litwinbooks.com/books/reference-librarianship-justice/).
+
+“Reference Librarianship & Justice.” Litwin Books & Library Juice Press (blog). Accessed June 9, 2019. [https://litwinbooks.com/books/reference-librarianship-justice/](https://litwinbooks.com/books/reference-librarianship-justice/).
+
+“Related Organizations – Archives Unleashed.” Accessed June 9, 2019. [http://archivesunleashed.com/related-organizations/](http://archivesunleashed.com/related-organizations/).
+
+“The Feminist Reference Desk.” Litwin Books & Library Juice Press (blog). Accessed May 4, 2019. [https://litwinbooks.com/books/the-feminist-reference-desk/](https://litwinbooks.com/books/the-feminist-reference-desk/).
+
+“The Santa Barbara Statement on Collections as Data.” Always Already Computational - Collections as Data. Accessed June 8, 2019. [https://collectionsasdata.github.io/statement/](https://collectionsasdata.github.io/statement/).
+
+tjowens. “First 3 Chapters of Theory and Craft of Digital Preservation for Comment.” Trevor Owens (blog), February 11, 2017. [http://www.trevorowens.org/2017/02/first-3-chapters-of-theory-and-craft-of-digital-preservation-for-comment/](http://www.trevorowens.org/2017/02/first-3-chapters-of-theory-and-craft-of-digital-preservation-for-comment/).
+
+Vinopal, Jennifer, and Monica McCormick. “Supporting Digital Scholarship in Research Libraries: Scalability and Sustainability.” Journal of Library Administration 53, no. 1 (January 2013): 27–42. [https://doi.org/10.1080/01930826.2013.756689](https://doi.org/10.1080/01930826.2013.756689).
+
 “Vocational Awe and Librarianship: The Lies We Tell Ourselves – In the Library with the Lead Pipe.” Accessed June 9, 2019. /2018/vocational-awe/.
-Williams, S. “Building a Community Archive of Police Violence.” Medium (blog), September 7, 2018. https://medium.com/community-archives/building-a-community-archive-of-police-violence-3ebc66c557d6.
+
+Williams, S. “Building a Community Archive of Police Violence.” Medium (blog), September 7, 2018. [https://medium.com/community-archives/building-a-community-archive-of-police-violence-3ebc66c557d6]( https://medium.com/community-archives/building-a-community-archive-of-police-violence-3ebc66c557d6).

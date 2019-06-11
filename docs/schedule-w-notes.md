@@ -75,43 +75,64 @@ How can libraries cause harm?
 
 8:00 – 9:00 am                        Catered Breakfast
 
-**9:00 – 10:30 am**                   **Monument Lab**
-[Presentation about Monument Lab](https://drive.google.com/open?id=1AKAb_D28abs5ngi96gDhNQKTywkdj1Su)
-And conversation about cultural memory
+**9:00 – 10:30 am**                  **Project Planning Resources**
+Quick overview of lessons in project planning tools.
+
+Project planning versus project management, and the role of project charters.
+
+LA shows a couple examples from my worlds. (asana for psp, trello for jdh, google doc for swipp and me)
+
+* [Socio-technical Sustainability Roadmap](https://sites.haa.pitt.edu/sustainabilityroadmap/)
+* [Yale DH Lab - Starting a Project](http://dhlab.yale.edu/guides.html)
+
+In pairs, select one project to work through the following modules:
+**STSR**
+- [Module A1](https://sites.haa.pitt.edu/sustainabilityroadmap/a1-project-scope/)
+- [Module A3](https://sites.haa.pitt.edu/sustainabilityroadmap/a3-audience/)
+- [Module B2](https://sites.haa.pitt.edu/sustainabilityroadmap/b2-technologicalinfrastructure/)
+
+or
+**Yale DH Lab**
+- [Lean Canvas](http://dhlab.yale.edu/assets/docs/DH-LeanCanvas.pdf)
+- [User Analysis](http://dhlab.yale.edu/assets/docs/DH-User-Analysis.pdf)
+- [Ideation](http://dhlab.yale.edu/assets/docs/DH-Ideation.pdf)
+
+Also see:
+* [SCUBA - Creating Definitions](http://bit.ly/creatingdefinitions)  
+* [Liberating Structures](http://www.liberatingstructures.com/)
 
 10:30 – 10:45 am                    Break
 
-**10:45 am – 12:00 pm**           **Collections as Data**
-[Collections as Data Presentation]()
-Collections as Data activities
-- [Fifty things](https://collectionsasdata.github.io/fiftythings/)
-- [Santa Barbara Statement](https://collectionsasdata.github.io/statement/)
-- [Closing Findings](https://doi.org/10.5281/zenodo.3152935)
+**10:45 am – 12:00 pm**           **Making Websites**
+Switch partners, projects, and tools.
 
-- Sample Datasets
-  - [Utah Matchbooks](https://github.com/marriott-library/collections-as-data/tree/master/matchbooks)
-  - [Carnegie Museum of Art](https://github.com/cmoa/collection)
 
 12:00 – 1:30 pm                      Lunch provided
 
 **1:30 – 2:30 pm**                       **Making websites**
-- Introduction to Markup and Markdown
-- Databases, websites, content management systems, static site generators – when and why do people choose these?
-- What is a publication? Review, timescale, collaborative authorship, etc
-- In what ways do these questions intersect with systems of power, and how can mindful approaches to those systems help shape our practices?
 
-- [How the Web Works](https://drive.google.com/open?id=1cXlQJBBpp5sEIP4co-645ioN7f9ciMYl)
-- HTML, Servers, Markup Markdown
-
+**How the web works**
 - [Install Atom](https://pandoc.org/installing.html)
 - [Install Pandoc](https://pandoc.org/installing.html)
 - [Markdown tutorial](https://www.markdowntutorial.com/)
 - [Typora](https://typora.io/)
 
+- [How the Web Works](https://drive.google.com/open?id=1cXlQJBBpp5sEIP4co-645ioN7f9ciMYl)
+
+
 
 2:30 – 2:45 pm                        Break
 
-**2:45 – 5:00 pm**                       **More making websites**
+**2:45 – 5:00 pm**                      
+**Cloud or other servers**
+- HTML, Servers, Markup Markdown
+- Digital Ocean
+- AWS
+- Whatever your institution has
+- Introduction to Markup and Markdown
+- Databases, websites, content management systems, static site generators – when and why do people choose these?
+- What is a publication? Review, timescale, collaborative authorship, etc
+- In what ways do these questions intersect with systems of power, and how can mindful approaches to those systems help shape our practices?
 
 **New websites for everyone**
 
@@ -123,11 +144,6 @@ Collections as Data activities
 
 - Omeka and Scalar - Using the Monument Lab data (or your own data!)
 
-**Cloud or other servers**
-
-- Digital Ocean
-- AWS
-- Whatever your institution has
 
 --
 
@@ -188,11 +204,7 @@ Drake, Jarrett M. “Seismic Shifts: On Archival Fact and Fictions.” Medium (b
 
 8:00 – 9:00 am                        Catered Breakfast
 
-9:00 – 10:30 am                      **Project Planning Resources**
-
-* [Socio-technical Sustainability Roadmap](https://sites.haa.pitt.edu/sustainabilityroadmap/)
-* [Yale DH Lab - Starting a Project](http://dhlab.yale.edu/guides.html)
-* [SCUBA - Creating Definitions](http://bit.ly/creatingdefinitions)
+9:00 – 10:30 am                      
 
 Laurie's project management rules...
 
@@ -237,3 +249,18 @@ What are we presenting to the group?
       The Library Publishing Coalition defines library publishing at its website “as the set of activities led by...libraries to support the creation, dissemination, and curation of scholarly, creative, and/or educational works.” The statement makes explicit the distinctions that qualify these activities as publishing: “...library publishing requires a production process, presents original work not previously made available, and applies a level of certification to the content published, whether through peer review or extension of the institutional brand.” [1]
 
 [1]:“An Ethical Framework for Library Publishing.” Purdue University, July 6, 2018. https://doi.org/10.5703/1288284316777.
+
+
+[Presentation about Monument Lab](https://drive.google.com/open?id=1AKAb_D28abs5ngi96gDhNQKTywkdj1Su)
+And conversation about cultural memory
+
+
+[Collections as Data Presentation]()
+Collections as Data activities
+- [Fifty things](https://collectionsasdata.github.io/fiftythings/)
+- [Santa Barbara Statement](https://collectionsasdata.github.io/statement/)
+- [Closing Findings](https://doi.org/10.5281/zenodo.3152935)
+
+- Sample Datasets
+  - [Utah Matchbooks](https://github.com/marriott-library/collections-as-data/tree/master/matchbooks)
+  - [Carnegie Museum of Art](https://github.com/cmoa/collection)
