@@ -85,6 +85,11 @@ LA shows a couple examples from my worlds. (asana for psp, trello for jdh, googl
 * [Socio-technical Sustainability Roadmap](https://sites.haa.pitt.edu/sustainabilityroadmap/)
 * [Yale DH Lab - Starting a Project](http://dhlab.yale.edu/guides.html)
 
+Also see:
+* [SCUBA - Creating Definitions](http://bit.ly/creatingdefinitions)  
+* [Liberating Structures](http://www.liberatingstructures.com/)
+
+
 In pairs, select one project to work through the following modules:
 **STSR**
 - [Module A1](https://sites.haa.pitt.edu/sustainabilityroadmap/a1-project-scope/)
@@ -92,20 +97,18 @@ In pairs, select one project to work through the following modules:
 - [Module B2](https://sites.haa.pitt.edu/sustainabilityroadmap/b2-technologicalinfrastructure/)
 
 or
+
 **Yale DH Lab**
 - [Lean Canvas](http://dhlab.yale.edu/assets/docs/DH-LeanCanvas.pdf)
 - [User Analysis](http://dhlab.yale.edu/assets/docs/DH-User-Analysis.pdf)
 - [Ideation](http://dhlab.yale.edu/assets/docs/DH-Ideation.pdf)
 
-Also see:
-* [SCUBA - Creating Definitions](http://bit.ly/creatingdefinitions)  
-* [Liberating Structures](http://www.liberatingstructures.com/)
 
 10:30 – 10:45 am                    Break
 
 **10:45 am – 12:00 pm**           **Making Websites**
-Switch partners, projects, and tools.
 
+Switch partners, projects, and tools.
 
 12:00 – 1:30 pm                      Lunch provided
 
@@ -118,8 +121,6 @@ Switch partners, projects, and tools.
 - [Typora](https://typora.io/)
 
 - [How the Web Works](https://drive.google.com/open?id=1cXlQJBBpp5sEIP4co-645ioN7f9ciMYl)
-
-
 
 2:30 – 2:45 pm                        Break
 
