@@ -108,6 +108,7 @@ In pairs, select one project to work through the following modules:
 or
 
 **Yale DH Lab**
+
 - [Lean Canvas](http://dhlab.yale.edu/assets/docs/DH-LeanCanvas.pdf)
 - [User Analysis](http://dhlab.yale.edu/assets/docs/DH-User-Analysis.pdf)
 - [Ideation](http://dhlab.yale.edu/assets/docs/DH-Ideation.pdf)
@@ -162,18 +163,11 @@ Switch partners, projects, and tools.
 
 **9:00 – 10:30 am**                 **Revising the plans - and progress**
 
+Why is jekyll so annoying to install when it's so wonderful to use!?
+
 Catching up on yesterday - returning to expansive and inclusive? - Start ScholComm and publishing conversation
 
-- Publishing Platforms
-  - Fulcrum
-  - Manifold
-  - OJS
-  - Janeway
-  - Static Sites
-
-  - Library Publishing Coalition
-    - [Shared Documentation Activity](https://librarypublishing.org/category/resources/documentation/)
-    - [Library Publishing and Ethics](https://librarypublishing.org/category/resources/documentation/)
+**Reclaim Hosting and Github pages**
 
 10:30 – 10:45 am                    Break
 
@@ -206,13 +200,7 @@ Drake, Jarrett M. “Seismic Shifts: On Archival Fact and Fictions.” Medium (b
 
 or...
 Monument Lab ***plus*** Toolapalooza
-- Some Tools
-  - Storymaps from ESRI
-  - Airtables
-  - Timeline.js and Storymaps.js
-  - Palladio from Stanford
-  - Density Design
-  - Scalar
+
 
 
 4:45 - 5:00 Revisit goals and plans - checkin for tomorrow
@@ -226,7 +214,27 @@ Monument Lab ***plus*** Toolapalooza
 
 9:00 – 10:30 am                      
 
-Laurie's project management rules...
+Decisions about Tools
+
+- Library Publishing Coalition
+  - [Shared Documentation Activity](https://librarypublishing.org/category/resources/documentation/)
+  - [Library Publishing and Ethics](https://librarypublishing.org/category/resources/documentation/)
+
+
+- Publishing Platforms
+  - Fulcrum
+  - Manifold
+  - OJS
+  - Janeway
+  - Static Sites
+
+  - Some Tools
+    - Storymaps from ESRI
+    - Airtables
+    - Timeline.js and Storymaps.js
+    - Palladio from Stanford
+    - Density Design
+    - Scalar
 
 
 10:30 – 10:45 am                    Break
