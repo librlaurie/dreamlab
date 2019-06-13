@@ -192,7 +192,6 @@ Owens, Trevor. The Theory and Craft of Digital Preservation. 1st Edition edition
 
 Phillips, Megan. “The NDSA Levels of Digital Preservation: An Explanation and Uses,” n.d., 7. [https://ndsa.org/documents/NDSA_Levels_Archiving_2013.pdf](https://ndsa.org/documents/NDSA_Levels_Archiving_2013.pdf)
 
-Reviewing project plans in use by Penn DS department
 
 Community Archiving
 
@@ -200,6 +199,9 @@ Drake, Jarrett M. “Seismic Shifts: On Archival Fact and Fictions.” Medium (b
 
 or...
 Monument Lab ***plus*** Toolapalooza
+
+
+Reviewing project plans in use by Penn DS department
 
 
 
@@ -216,9 +218,15 @@ Monument Lab ***plus*** Toolapalooza
 
 Decisions about Tools
 
-- Library Publishing Coalition
+Library Publishing Coalition
   - [Shared Documentation Activity](https://librarypublishing.org/category/resources/documentation/)
   - [Library Publishing and Ethics](https://librarypublishing.org/category/resources/documentation/)
+
+  - [Scholarly Communication Reports from Penn Libraries](https://penntrl.wordpress.com/2019/01/23/scrip-appendices/)
+  -
+
+Learning things:
+  - [Programming Historian](https://programminghistorian.org/)
 
 
 - Publishing Platforms
@@ -230,10 +238,14 @@ Decisions about Tools
 
   - Some Tools
     - Storymaps from ESRI
-    - Airtables
     - Timeline.js and Storymaps.js
-    - Palladio from Stanford
-    - Density Design
+
+
+Monument Lab
+- [data](monument-lab-sample.csv)    
+    - Airtables
+    - [Palladio from Stanford](http://hdlab.stanford.edu/palladio/)
+    - [Density Design](https://rawgraphs.io/)
     - Scalar
 
 
