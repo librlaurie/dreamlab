@@ -1,14 +1,6 @@
 ---
 layout: default
 ---
-
-# Data
-I made some data.
-
-It's on a page [here](data.html)
-
-
-
 # Course Overview
 
 * [DreamLab Site](http://web.sas.upenn.edu/dream-lab/2018/10/29/dh-library/)
@@ -28,3 +20,12 @@ It's on a page [here](data.html)
 # Example Section
 * More here!!
 * Also some here!!
+
+
+
+# Data
+I made some data.
+
+It's on a page [here](data.html)
+
+
